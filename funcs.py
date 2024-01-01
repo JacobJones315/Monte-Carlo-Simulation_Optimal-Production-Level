@@ -1,3 +1,8 @@
+"""
+Author: Jacob Jones
+Date: 11/10/23
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 # Task 1: Create a list of demands normally distributed with mean 150 and stdev 20
