@@ -5,8 +5,8 @@
 ## Function Objectives
 * Specify if its normal (Gaussian) or uniform distribution
 * Randomly generate demand instances
-* Compute the profit for a given demand and store it in  alist
-* Compute mean and standard deviation of the profit
+* Compute the profit for a given demand and store it in a list
+* Compute mean profit
 * Identify the optimal level of production
 
 ## Screenshot of Graph Generated
